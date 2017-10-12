@@ -8,15 +8,18 @@ Welcome to test_for_first_use's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :glob:
+
+   
+   begining/index
+   base/index
+   tool/index
+
 
 Introduction
 ============
 This is the introduction of demo。
 
-API
-===
-:doc:'Run API</run>'
 
 
 Indices and tables
